@@ -1,7 +1,6 @@
 # Amigo Secreto 🎁
 
-Este es un sencillo proyecto web para realizar sorteos de "Amigo Secreto". Los usuarios pueden agregar nombres a una lista y sortear aleatoriamente a un participante. La aplicación evita repeticiones y notifica cuando todos los amigos han sido sorteados.
-
+Este es un sencillo proyecto web para realizar sorteos de "Amigo Secreto". Los usuarios pueden agregar nombres a una lista y sortear aleatoriamente a un participante.
 ## 🚀 Funcionalidades
 
 ✅ **Agregar amigos**: Ingresa nombres en un campo de texto y agrégalos a la lista.\
