@@ -6,7 +6,7 @@ Este es un sencillo proyecto web para realizar sorteos de "Amigo Secreto". Los u
 
 ✅ **Agregar amigos**: Ingresa nombres en un campo de texto y agrégalos a la lista.\
 ✅ **Evitar duplicados**: No se permiten nombres repetidos.\
-✅ **Sortear aleatoriamente**: Se elige un amigo al azar de la lista.\
+✅ **Sortear aleatoriamente**: Se elige un amigo al azar de la lista.
 
 ## 🛠️ Tecnologías utilizadas
 
