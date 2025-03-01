@@ -20,10 +20,6 @@ Este es un sencillo proyecto web para realizar sorteos de "Amigo Secreto". Los u
 ├── 📂 assets
 │   ├── amigo-secreto.png
 │   ├── play_circle_outline.png
-│   ├── 📂 screenshots
-│   │   ├── agregar-amigos.png
-│   │   ├── sortear-amigo.png
-│   │   ├── todos-sorteados.png
 ├── 📜 index.html
 ├── 📜 style.css
 ├── 📜 app.js
